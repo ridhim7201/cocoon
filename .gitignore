@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Local environment files containing API keys
+.env
+.env.local
+.env.*.local
+**/.env
+
+# Build and IDE outputs
+dist/
+**/dist/
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
