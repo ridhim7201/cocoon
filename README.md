@@ -1,7 +1,5 @@
 # Cocoon — "Protect your time. Force your growth."
 
-* **NOTE:** i had started the deploy process today unaware of the fact that billing was a **24** hour process that had to be set up to use free tier to deploy using google cloud, I will add the link to this README.md once i am able to deploy it. For now I have deployed it using render.
-
 A dark, AI-powered productivity app with task scheduling, alarm takeovers, emergence slots,
 voice commands, and sleep tracking. Powered by Google's **free** Gemini API.
 
